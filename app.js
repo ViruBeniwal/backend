@@ -24,8 +24,6 @@ fs.readFile('./content/first.txt','utf-8', (err, data)=>{
 })
 
 console.log(first, second);
-
-console.log("doing some changes!!");
 //console.log(third);
 
 // setInterval(()=>{
